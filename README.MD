@@ -162,7 +162,7 @@ party tools, and includes the latest QEMU and OVMF w/ SecureBoot packages for ba
 
 ## Installation
 
-You should be able to open the EDK-II.SLN file and build without any issues in either Visual Studio 2015 or 2017. WDK or other 3rd party installations are not needed.
+You should be able to open the EDK-II.SLN file and build without any issues in either Visual Studio 2015, 2017 or 2019. WDK or other 3rd party installations are not needed.
 
 Once the EDK-II libraries are built, you should be able to open the SAMPLES.SLN file and build the samples, which will create UefiApplication.efi, UefiDriver.efi, Cryptest.efi, and FtdiUsbSerialDxe.efi
 
